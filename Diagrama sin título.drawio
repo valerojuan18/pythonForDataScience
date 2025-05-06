@@ -99,8 +99,8 @@
         <mxCell id="r2OFJCYLcEijNNHe19bi-32" value="(1,N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="414" y="300" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r2OFJCYLcEijNNHe19bi-33" value="Artículos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="330" width="60" height="30" as="geometry" />
+        <mxCell id="r2OFJCYLcEijNNHe19bi-35" value="Tems" style="text;html=1;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="220" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
